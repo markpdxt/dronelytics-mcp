@@ -1,5 +1,7 @@
 # @dronelytics/mcp
 
+[![dronelytics-mcp MCP server](https://glama.ai/mcp/servers/markpdxt/dronelytics-mcp/badges/score.svg)](https://glama.ai/mcp/servers/markpdxt/dronelytics-mcp)
+
 MCP (Model Context Protocol) server for the [Dronelytics](https://dronelytics.io) drone mission planning platform. Enables AI assistants to query US drone airspace, plan missions, manage drone profiles, and export flight plans.
 
 **The first drone platform built for AI agents.** [Learn more](https://dronelytics.io/mcp) | [Read why we built this](https://dronelytics.io/why-we-built-mcp-server-drone-airspace)
